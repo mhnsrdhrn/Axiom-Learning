@@ -1,0 +1,39 @@
+Causal law #1
+True positives: 985
+False positives: 224
+False positives (10 validations): 8
+
+Causal law #2
+True positives: 1000
+False positives: 266
+False positives (10 validations): 34
+
+Executability condition #1
+True positives: 910
+False positives: 280
+False positives (10 validations): 13
+
+Executability condition #2
+True positives: 1000
+False positives: 6
+False positives (10 validations): 1
+
+Negative affordance #1
+True positives: 907
+False positives: 393
+False positives (10 validations): 8
+
+Negative affordance #2
+True positives: 1000
+False positives: 103
+False positives (10 validations): 7
+
+Positive affordance #1
+True positives: 696
+False positives: 624
+False positives (10 validations): 168
+
+Positive affordance #2
+True positives: 576
+False positives: 414
+False positives (10 validations): 120
