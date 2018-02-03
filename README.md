@@ -6,4 +6,5 @@ This repository contains supporting information for the paper (submission #3999)
 - The file 'Noise-Data-Full.pdf' summarizes precision and recall data for experimental trials in learning axioms with simulated actuator noise.
 - The file 'System-Diagram.pdf' is a visual representation of the described architecture.
 - The file 'example_ASP_domain.sp' gives a CR-Prolog implementation of the robotic domain representation used in the paper.
+- The file 'relevant.pdf' defines the object constants and relations relevant to a transition of interest.
 - The file 'README.md' is this file.
